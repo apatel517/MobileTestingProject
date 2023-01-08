@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-08T17:32:26 CST" name="Suite" finished-at="2023-01-08T17:32:59 CST" duration-ms="33089">
+    <groups>
+    </groups>
+    <test started-at="2023-01-08T17:32:26 CST" name="Test" finished-at="2023-01-08T17:32:59 CST" duration-ms="33089">
+      <class name="Testing.Mobile.validInputsandCheckout">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Testing.Mobile.validInputsandCheckout@350aac89]" started-at="2023-01-08T17:32:39 CST" name="beforeClass" finished-at="2023-01-08T17:32:43 CST" duration-ms="4499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="addTocart()[pri:0, instance:Testing.Mobile.validInputsandCheckout@350aac89]" started-at="2023-01-08T17:32:43 CST" name="addTocart" finished-at="2023-01-08T17:32:58 CST" duration-ms="14636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTocart -->
+        <test-method signature="orderconfirmation()[pri:0, instance:Testing.Mobile.validInputsandCheckout@350aac89]" started-at="2023-01-08T17:32:58 CST" name="orderconfirmation" finished-at="2023-01-08T17:32:59 CST" duration-ms="1015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderconfirmation -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Testing.Mobile.validInputsandCheckout@350aac89]" started-at="2023-01-08T17:32:59 CST" name="afterClass" finished-at="2023-01-08T17:32:59 CST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Testing.Mobile.validInputsandCheckout -->
+      <class name="Testing.Mobile.TestingWithInvalidInput">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:Testing.Mobile.TestingWithInvalidInput@3a7442c7]" started-at="2023-01-08T17:32:26 CST" name="beforeClass" finished-at="2023-01-08T17:32:32 CST" duration-ms="5744" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="invalidpasswordinput()[pri:0, instance:Testing.Mobile.TestingWithInvalidInput@3a7442c7]" started-at="2023-01-08T17:32:32 CST" name="invalidpasswordinput" finished-at="2023-01-08T17:32:35 CST" duration-ms="2708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidpasswordinput -->
+        <test-method signature="invalidusernameinput()[pri:0, instance:Testing.Mobile.TestingWithInvalidInput@3a7442c7]" started-at="2023-01-08T17:32:35 CST" name="invalidusernameinput" finished-at="2023-01-08T17:32:37 CST" duration-ms="1836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidusernameinput -->
+        <test-method signature="invaliusernamepasswordinput()[pri:0, instance:Testing.Mobile.TestingWithInvalidInput@3a7442c7]" started-at="2023-01-08T17:32:37 CST" name="invaliusernamepasswordinput" finished-at="2023-01-08T17:32:39 CST" duration-ms="1922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invaliusernamepasswordinput -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:Testing.Mobile.TestingWithInvalidInput@3a7442c7]" started-at="2023-01-08T17:32:39 CST" name="afterClass" finished-at="2023-01-08T17:32:39 CST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Testing.Mobile.TestingWithInvalidInput -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
